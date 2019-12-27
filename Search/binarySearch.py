@@ -21,13 +21,13 @@ while t > 0:
     t = t - 1
 
 
-
-{
-if __name__=='__main__':
-    t=int(input())
-    for i in range(t):
-        n=int(input())
-        arr=list(map(int, input().strip().split(' ')))
-        x=int(input())
-        print (bin_search(arr, 0, 0, x))
-}
+#
+# {
+# if __name__=='__main__':
+#     t=int(input())
+#     for i in range(t):
+#         n=int(input())
+#         arr=list(map(int, input().strip().split(' ')))
+#         x=int(input())
+#         print (bin_search(arr, 0, 0, x))
+# }
