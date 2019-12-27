@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4259e9c-b7e8-413a-8766-bd4639342e75" name="Default Changelist" comment="" />
+    <list default="true" id="f4259e9c-b7e8-413a-8766-bd4639342e75" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="MD Shohanur Rahman &lt;shohanurvu@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VKKWWZym94gSivfEaUygsY9oPk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +34,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager" selected="Python.binarySearch">
     <configuration name="binarySearch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -162,32 +175,56 @@
       <option name="presentableId" value="Default" />
       <updated>1576996378932</updated>
     </task>
+    <task id="LOCAL-00001" summary="comment">
+      <created>1577440541500</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577440541500</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="comment" />
   </component>
   <component name="WindowStateProjectService">
     <state x="437" y="175" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576996444601">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="437" y="175" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728@0.0.1360.728" timestamp="1576996444601" />
-    <state width="1339" height="176" key="GridCell.Tab.0.bottom" timestamp="1577437199861">
+    <state x="329" y="0" key="CommitChangelistDialog2" timestamp="1577440540666">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1339" height="176" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1577437199861" />
-    <state width="1339" height="176" key="GridCell.Tab.0.center" timestamp="1577437199861">
+    <state x="329" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1577440540666" />
+    <state width="1339" height="176" key="GridCell.Tab.0.bottom" timestamp="1577440656258">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1339" height="176" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1577437199861" />
-    <state width="1339" height="176" key="GridCell.Tab.0.left" timestamp="1577437199861">
+    <state width="1339" height="176" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1577440656258" />
+    <state width="1339" height="176" key="GridCell.Tab.0.center" timestamp="1577440656258">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1339" height="176" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1577437199861" />
-    <state width="1339" height="176" key="GridCell.Tab.0.right" timestamp="1577437199861">
+    <state width="1339" height="176" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1577440656258" />
+    <state width="1339" height="176" key="GridCell.Tab.0.left" timestamp="1577440656258">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1339" height="176" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1577437199861" />
-    <state x="388" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1577426624780">
+    <state width="1339" height="176" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1577440656258" />
+    <state width="1339" height="176" key="GridCell.Tab.0.right" timestamp="1577440656258">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="388" y="193" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1577426624780" />
+    <state width="1339" height="176" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1577440656258" />
+    <state x="272" y="101" key="Vcs.Push.Dialog.v2" timestamp="1577440553271">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="272" y="101" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1577440553271" />
+    <state x="388" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1577456180848">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="388" y="193" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1577456180848" />
+    <state x="376" y="168" key="git4idea.merge.GitPullDialog" timestamp="1577440477802">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="376" y="168" key="git4idea.merge.GitPullDialog/0.0.1360.728@0.0.1360.728" timestamp="1577440477802" />
   </component>
 </project>
