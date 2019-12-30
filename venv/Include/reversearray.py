@@ -44,3 +44,11 @@
 #
 #     t= t-1
 #
+
+arr = [1,2,3,4,5]
+temp= []
+for i in range(0,2):
+    temp.append(arr[i])
+
+
+print(list(temp))
