@@ -19,7 +19,7 @@ def quicksort(arr, low, high):
         quicksort(arr, pi + 1, high)
 
 
-arr = [10, 7, 8, 9, 1, 5]
+arr = [10,80,30,90,40,50,70]
 n = len(arr)
 quicksort(arr, 0, n - 1)
 for i in range(n):
