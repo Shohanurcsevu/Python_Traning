@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4259e9c-b7e8-413a-8766-bd4639342e75" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/venv/Include/reversearray.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SortingAlgorithmn/quickshort.py" beforeDir="false" afterPath="$PROJECT_DIR$/SortingAlgorithmn/quickshort.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +36,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.quickshort">
+  <component name="RunManager" selected="Python.reversearray">
     <configuration name="binarySearch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_data_type" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,27 +79,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pythonGUi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_data_type" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/pythonGUi.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="quickshort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_data_type" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,6 +92,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SortingAlgorithmn/quickshort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reversearray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_data_type" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/reversearray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.reversearray" />
         <item itemvalue="Python.quickshort" />
         <item itemvalue="Python.binarySearch" />
         <item itemvalue="Python.linersearch" />
         <item itemvalue="Python.stringManupulations" />
-        <item itemvalue="Python.pythonGUi" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577510616891</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="comment">
+      <created>1577728399064</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1577728399064</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -215,26 +222,26 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="437" y="175" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728@0.0.1360.728" timestamp="1576996444601" />
-    <state x="329" y="0" key="CommitChangelistDialog2" timestamp="1577510615798">
+    <state x="329" y="0" key="CommitChangelistDialog2" timestamp="1577728397783">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="329" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1577510615798" />
-    <state width="1339" height="223" key="GridCell.Tab.0.bottom" timestamp="1577537955559">
+    <state x="329" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1577728397783" />
+    <state width="1339" height="176" key="GridCell.Tab.0.bottom" timestamp="1577732625773">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1339" height="223" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1577537955559" />
-    <state width="1339" height="223" key="GridCell.Tab.0.center" timestamp="1577537955559">
+    <state width="1339" height="176" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1577732625773" />
+    <state width="1339" height="176" key="GridCell.Tab.0.center" timestamp="1577732625773">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1339" height="223" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1577537955559" />
-    <state width="1339" height="223" key="GridCell.Tab.0.left" timestamp="1577537955558">
+    <state width="1339" height="176" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1577732625773" />
+    <state width="1339" height="176" key="GridCell.Tab.0.left" timestamp="1577732625773">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1339" height="223" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1577537955558" />
-    <state width="1339" height="223" key="GridCell.Tab.0.right" timestamp="1577537955559">
+    <state width="1339" height="176" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1577732625773" />
+    <state width="1339" height="176" key="GridCell.Tab.0.right" timestamp="1577732625773">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1339" height="223" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1577537955559" />
+    <state width="1339" height="176" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1577732625773" />
     <state width="1339" height="223" key="GridCell.Tab.1.bottom" timestamp="1577537956015">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
@@ -251,10 +258,10 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state width="1339" height="223" key="GridCell.Tab.1.right/0.0.1360.728@0.0.1360.728" timestamp="1577537956015" />
-    <state x="272" y="101" key="Vcs.Push.Dialog.v2" timestamp="1577519990818">
+    <state x="272" y="101" key="Vcs.Push.Dialog.v2" timestamp="1577728405047">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="272" y="101" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1577519990818" />
+    <state x="272" y="101" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1577728405047" />
     <state x="388" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1577728315170">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
